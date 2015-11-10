@@ -1,0 +1,35 @@
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\ResolveAssemblyReference.cache
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.Form1.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.Properties.Resources.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.csproj.GenerateResource.Cache
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Release\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Release\FuzzyOKTK.pdb
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.pdb
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.fuzzyFuncDlg.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.fuzzyFuncAltDlg.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.rules.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\ResolveAssemblyReference.cache
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.Form1.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.fuzzyFuncAltDlg.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.fuzzyFuncDlg.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.Properties.Resources.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.rules.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.csproj.GenerateResource.Cache
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.exe
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.pdb
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Release\FuzzyOKTK.exe
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Release\FuzzyOKTK.pdb
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.inputBox.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\ResolveAssemblyReference.cache
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.Form1.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.fuzzyFuncAltDlg.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.fuzzyFuncDlg.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.inputBox.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.Properties.Resources.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.rules.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.csproj.GenerateResource.Cache
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Release\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Release\FuzzyOKTK.pdb
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Release\FuzzyOKTK.pdb

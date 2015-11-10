@@ -1,0 +1,59 @@
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.pdb
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\ResolveAssemblyReference.cache
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Form1.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Properties.Resources.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.csproj.GenerateResource.Cache
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.pdb
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncDlg.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncAltDlg.resources
+D:\arch\diplom\3елена 2011\prog\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.rules.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.exe
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.pdb
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.exe
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.pdb
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\ResolveAssemblyReference.cache
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Form1.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncAltDlg.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncDlg.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Properties.Resources.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.rules.resources
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.csproj.GenerateResource.Cache
+D:\000000000\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.inputBox.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.pdb
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.exe
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.pdb
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\ResolveAssemblyReference.cache
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Form1.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncAltDlg.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncDlg.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.inputBox.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Properties.Resources.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.rules.resources
+D:\arch\diplom\3елена 2011\prog\23-12-11 fuzzyOKTK\fuzzyOKTK\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.exe
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.pdb
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.exe
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.pdb
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Form1.resources
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncAltDlg.resources
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncDlg.resources
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.inputBox.resources
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Properties.Resources.resources
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.rules.resources
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.csprojResolveAssemblyReference.cache
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.exe
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.pdb
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.exe
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\bin\Debug\FuzzyOKTK.pdb
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.csprojResolveAssemblyReference.cache
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Form1.resources
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncAltDlg.resources
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.fuzzyFuncDlg.resources
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.inputBox.resources
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.Properties.Resources.resources
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.rules.resources
+G:\Document\Регистрация_Прогноз\Нечеткий Вывод ОТК_fuzzy\fuzzy\fuzzyOKTK (25-12-11)\FuzzyOKTK\FuzzyOKTK\obj\Debug\FuzzyOKTK.csproj.GenerateResource.Cache
